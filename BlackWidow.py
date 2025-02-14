@@ -1,4 +1,2 @@
-# Programmer: Olivia Strombeck
-# Branch: Gasoline
-# Date:
-# Program:
+print ("\n***********************************\n")
+print ("Gasoline Branch - Developer: Olivia Strombeck")
