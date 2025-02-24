@@ -39,6 +39,7 @@ import random
 from time import sleep
 
 
+
 def gasLevelGauge():
     """Return a random gas level from a predefined list."""
     gasLevelList = ["Empty", "Low", "Quarter Tank", "Half Tank", "Three Quarter Tank", "Full Tank"]
